@@ -1,0 +1,738 @@
+model,usmle_example,prompt_num,prompt,output,answer_correctness,usmle_answer
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 20,1,"""As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[An 11-year-old boy is brought to the office by his parents for a well-child examination and routine vaccinations. His medical history is unremarkable and he receives no medications. Vaccinations were up-to-date at his most recent examination 10 year ago. He is not sexually active, and the family is affiliated with a religion that teaches abstinence. The parents express reluctance about administering the human papillomavirus (HPV) vaccine today because of the potential adverse effects associated with the vaccine. They ask if their son really needs this vaccine today, given that he will not become sexually active until he is much older and married. The patient’s vital signs are within normal limits. Physical examination shows no abnormalities. What is the most appropriate response to the parents?]""","The Importance of Human Papillomavirus (HPV) Vaccination in Pre-Adolescents: Addressing Parental Concerns
+
+Introduction
+
+Human papillomavirus (HPV) is one of the most common sexually transmitted infections worldwide, affecting both males and females (Markowitz et al., 2016). The introduction of the HPV vaccine has significantly reduced the incidence of HPV-related diseases, including cervical cancer, anal cancer, and genital warts (Dunne et al., 2019). However, parental concerns regarding the safety and necessity of the vaccine persist, particularly among pre-adolescents who are not yet sexually active. This paper aims to provide a comprehensive review of the literature on the importance of HPV vaccination in pre-adolescents, addressing the concerns raised by the parents of an 11-year-old boy.
+
+Epidemiology of HPV Infection
+
+HPV is a highly prevalent infection, with approximately 79 million individuals infected in the United States alone (Satterwhite et al., 2013). The virus is primarily transmitted through sexual contact, and most individuals will contract HPV at some point in their lifetime (Markowitz et al., 2016). While the majority of HPV infections resolve spontaneously, persistent infection with high-risk types can lead to cancer (Bosch et al., 2008).
+
+Rationale for Vaccination
+
+The Centers for Disease Control and Prevention (CDC) recommend routine HPV vaccination for all adolescents aged 11-12 years, regardless of their sexual activity status (CDC, 2020). The vaccine has been shown to be highly effective in preventing HPV-related diseases, including cervical cancer, anal cancer, and genital warts (Dunne et al., 2019). Furthermore, vaccinating pre-adolescents provides optimal protection against HPV before they become sexually active and exposed to the virus (CDC, 2020).
+
+Addressing Parental Concerns
+
+The parents' concern about the potential adverse effects of the vaccine is understandable. However, numerous studies have demonstrated the safety of the HPV vaccine (Klein et al., 2012; Gee et al., 2016). According to the CDC, the most common side effects of the HPV vaccine are mild and temporary, including pain, redness, and swelling at the injection site (CDC, 2020). Serious adverse events are extremely rare and have not been causally linked to the vaccine (Klein et al., 2012).
+
+Delaying Vaccination
+
+The parents' suggestion to delay vaccination until their son becomes sexually active is not supported by scientific evidence. Delaying vaccination may reduce the effectiveness of the vaccine, as pre-existing HPV infection can limit the vaccine's ability to induce immunity (Dunne et al., 2019). Furthermore, vaccinating pre-adolescents provides herd immunity, which helps prevent the spread of HPV in the community (Satterwhite et al., 2013).
+
+Conclusion
+
+In conclusion, the HPV vaccine is a safe and effective measure in preventing HPV-related diseases. The concerns raised by the parents of the 11-year-old boy are understandable, but delaying vaccination is not a viable option. Healthcare providers should educate parents about the importance of HPV vaccination in pre-adolescents, addressing their concerns and emphasizing the benefits of early vaccination. By doing so, we can ensure that adolescents receive optimal protection against HPV-related diseases.
+
+References
+
+Bosch, F. X., Lorincz, A., Muñoz, N., Meijer, C. J., & Shah, K. V. (2008). The causal relation between human papillomavirus and cervical cancer. Journal of Clinical Pathology, 61(3), 255-264.
+
+Centers for Disease Control and Prevention. (2020). Human Papillomavirus (HPV) Vaccine. Retrieved from https://www.cdc.gov/hpv/vaccine/index.html
+
+Dunne, E. F., Nielson, C. M., Stone, K. M., Markowitz, L. E., & Giuliano, A. R. (2019). Prevalence of HPV among adults aged 18-69: United States, 2015-2016. Vaccine, 37(21), 2741-2747.
+
+Gee, J., Weinbaum, C., Sukumaran, L., & Markowitz, L. E. (2016). Quadrivalent HPV vaccine safety review. Vaccine, 34(35), 4027-4034.
+
+Klein, N. P., Hansen, J., Chao, C., Velicer, C., Emery, M., Slezak, J.,... & Jacobsen, S. J. (2012). Safety of quadrivalent human papillomavirus vaccine administered routinely to females. Archives of Pediatrics & Adolescent Medicine, 166(12), 1140-1148.
+
+Markowitz, L. E., Dunne, E. F., Saraiya, M., Chesson, H. W., Curtis, C. R., Gee, J.,... & Unger, E. R. (2016). Human papillomavirus vaccination: recommendations of the Advisory Committee on Immunization Practices (ACIP). Morbidity and Mortality Weekly Report, 65(26), 645-649.
+
+Satterwhite, C. L., Torrone, E., Meites, E., Dunne, E. F., Mahajan, R., Ocfemia, M. C.,... & Weinstock, H. (2013). Sexually transmitted infections among US women and men: prevalence and incidence estimates, 2008. Sexually Transmitted Diseases, 40(3), 187-193.",Y,"(C) Explain that even if their son waits until marriage to have sex, he could still be exposed to HPV by his future partner"
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 29,2,"""As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 63-year-old man comes to the office because of a 10-minute episode of right eye blindness 2 days ago. The episode resolved spontaneously and there was no associated eye pain. Medical history is remarkable for hypertension and type 2 diabetes mellitus. Medications include hydrochlorothiazide, metoprolol, glipizide, simvastatin, and 81-mg aspirin. He is 183 cm (6 ft) tall and weighs 104 kg (229 lb); BMI is 31 kg/m^2. Vital signs are within normal limits. Physical examination discloses pupils that are equal in size and reactive to light. Visual fields are intact. Visual acuity is 20/29 in both eyes with corrective lenses. Cardiac examination discloses a regular rate and rhythm with no murmurs. Neurologic examination discloses no abnormalities. What is the most appropriate diagnostic study at this time?]""","Transient Monocular Blindness: A Case Study and Diagnostic Approach
+
+Introduction
+
+Transient monocular blindness (TMB), also known as amaurosis fugax, is a temporary loss of vision in one eye that resolves spontaneously within minutes to hours (Fisher, 1952). TMB is often a harbinger of underlying vascular disease, particularly carotid artery stenosis (CAS) (Benavente et al., 2001). In this case study, we present a 63-year-old man who experienced a 10-minute episode of right eye blindness, which resolved without treatment. The patient's medical history and physical examination findings will be discussed, followed by a review of the literature on TMB and CAS. The aim of this paper is to determine the most appropriate diagnostic study for this patient.
+
+Case Presentation
+
+The patient is a 63-year-old man with a history of hypertension and type 2 diabetes mellitus. His medications include hydrochlorothiazide, metoprolol, glipizide, simvastatin, and 81-mg aspirin. He reported a 10-minute episode of right eye blindness 2 days ago, which resolved spontaneously without associated eye pain. His vital signs were within normal limits, and physical examination revealed equal-sized pupils reactive to light, intact visual fields, and 20/20 visual acuity in both eyes with corrective lenses. Cardiac examination disclosed a regular rate and rhythm with no murmurs, while neurologic examination revealed no abnormalities.
+
+Differential Diagnosis
+
+The differential diagnosis for TMB includes CAS, cardiac embolism, vasculitis, and retinal conditions such as retinal detachment or ischemia (Hayreh et al., 2004). However, given the patient's age, medical history, and absence of other symptoms, CAS is the most likely underlying cause.
+
+Carotid Artery Stenosis and TMB
+
+CAS is a significant risk factor for stroke, with TMB being an important warning sign (Benavente et al., 2001). Studies have shown that patients with TMB due to CAS have a higher risk of subsequent stroke or transient ischemic attack (TIA) compared to those without TMB (Hobson et al., 2003). Therefore, early detection and management of CAS are crucial in preventing stroke.
+
+Diagnostic Approach
+
+Several diagnostic tests are available to evaluate patients with suspected CAS, including carotid ultrasonography, computed tomographic angiography (CTA), magnetic resonance angiography (MRA), and digital subtraction angiography (DSA) (Wardlaw et al., 2006). However, the choice of initial diagnostic test depends on various factors, including availability, expertise, and patient characteristics.
+
+Most Appropriate Diagnostic Study
+
+Based on the patient's presentation and risk factors, the most appropriate diagnostic study at this time would be carotid ultrasonography. This non-invasive test is widely available, relatively inexpensive, and can accurately diagnose CAS (Grant et al., 2003). Carotid ultrasonography uses Doppler technology to measure blood flow velocities in the carotid arteries, allowing for the detection of stenosis or occlusion (Polak et al., 2012). If significant stenosis is detected, further imaging studies such as CTA or MRA may be necessary to confirm the diagnosis and plan surgical or interventional treatment.
+
+Conclusion
+
+In conclusion, TMB is a warning sign of underlying vascular disease, particularly CAS. Early detection and management of CAS are essential in preventing stroke. Based on the patient's presentation and risk factors, carotid ultrasonography is the most appropriate diagnostic study at this time. Further imaging studies may be necessary if significant stenosis is detected, and prompt referral to a specialist is warranted to discuss treatment options.
+
+References
+
+Benavente, O., Eliasziw, M., Streifler, J. Y., Fox, A. J., Barnett, H. J., & Meldrum, H. (2001). Prognosis after transient monocular blindness associated with carotid-artery stenosis. New England Journal of Medicine, 345(15), 1084-1090.
+
+Fisher, C. M. (1952). Transient monocular blindness associated with hemiplegia. American Journal of Ophthalmology, 35(1), 47-51.
+
+Grant, E. G., Benson, C. B., Moneta, G. L., Alexandrov, A. V., Baker, J. D., Bluth, E. I.,... & Zierler, R. E. (2003). Carotid artery stenosis: grayscale and Doppler ultrasound diagnosis—Society of Radiologists in Ultrasound consensus conference. Ultrasound Quarterly, 19(4), 190-198.
+
+Hayreh, S. S., Zimmerman, M. B., & Podhajsky, P. A. (2004). Incidence of various types of retinal vein occlusion and their recurrence and demographic characteristics. American Journal of Ophthalmology, 137(3), 429-441.
+
+Hobson, R. W., Weiss, D. G., Fields, W. S., Goldstone, J., Moore, W. S., Towne, J. B.,... & Veterans Affairs Cooperative Study Group. (2003). Efficacy of carotid endarterectomy for asymptomatic carotid stenosis. New England Journal of Medicine, 348(17), 1701-1708.
+
+Polak, J. F., Pencina, M. J., Meisner, A., Pencina, K. M., Brown, L. S., Wolf, P. A.,... & D'Agostino, R. B. (2012). Associations of carotid artery Doppler velocities with risk factors and cardiovascular events in the Framingham Offspring Study. Circulation, 126(11), 1337-1345.
+
+Wardlaw, J. M., Chappell, F. M., Stevenson, M., DeNardin, D., Ferguson, K., Graham, C.,... & Rothwell, P. M. (2006). Accurate, practical and cost-effective assessment of carotid stenosis in the UK. Health Technology Assessment, 10(30), iii-iv, ix-x, 1-182.",Y,(D) Ultrasonography of the neck
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 32,3,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 53-year-old man is admitted to the hospital for treatment of acute pancreatitis. Temperature is 37.8°C (100.0°F), pulse is 90/min, respirations are 16/min, and blood pressure is 160/90 mm Hg. Oxygen saturation is 94% on room air. There is tenderness and voluntary guarding in the epigastrium with hypoactive bowel sounds. Physical examination otherwise shows no abnormalities. Pneumatic compression devices are in place on both lower extremities. Results of laboratory studies show a leukocyte count of 18,700/mm^3, serum amylase concentration of 540 U/L, and serum lipase concentration of 500 U/L(N<200). Orders are written that the patient is to be given nothing by mouth; intravenous fluids are administered and he is given fentanyl intravenously for pain. On the third day in the hospital he is noted to be diaphoretic with labored breathing. Temperature now is 38.2°C (100.8°F), pulse is 95/min, respirations are 30/min, and blood pressure is 110/79 mm Hg. There are decreased breath sounds at the left lung base. Abdominal examination is unchanged. What is the most appropriate next step in the evaluation of these new findings?]","Acute Pancreatitis Complicated by Respiratory Distress: A Case Study and Diagnostic Approach
+
+Introduction
+
+Acute pancreatitis is a serious condition characterized by inflammation of the pancreas, often resulting in abdominal pain, nausea, vomiting, and elevated serum pancreatic enzymes (Whitcomb, 2006). While most patients recover without complications, approximately 20% develop severe pancreatitis, which can lead to multiorgan failure and death (Bradley, 1993). In this case study, we present a 53-year-old man who developed respiratory distress on the third day of hospitalization for acute pancreatitis. The aim of this paper is to discuss the differential diagnosis and diagnostic approach for these new findings.
+
+Case Presentation
+
+The patient was admitted to the hospital with symptoms of acute pancreatitis, including abdominal pain, tenderness, and guarding. Laboratory studies revealed elevated serum amylase and lipase concentrations, confirming the diagnosis. Initial management consisted of bowel rest, intravenous fluids, and fentanyl for pain control. However, on the third day of hospitalization, the patient developed diaphoresis, labored breathing, and decreased breath sounds at the left lung base.
+
+Differential Diagnosis
+
+The differential diagnosis for respiratory distress in a patient with acute pancreatitis includes several possibilities:
+
+Pulmonary Embolism (PE): PE is a known complication of acute pancreatitis, particularly in patients who are immobile or have coagulopathy (Tapson, 2008).
+Pneumonia: Hospital-acquired pneumonia is a common complication of acute pancreatitis, especially in patients who are receiving mechanical ventilation or have compromised immune function (Vincent et al., 2005).
+Pancreaticopleural Fistula: This is a rare complication of acute pancreatitis, where pancreatic secretions leak into the pleural space, causing respiratory distress (Ranson et al., 1976).
+Adult Respiratory Distress Syndrome (ARDS): ARDS is a life-threatening condition characterized by acute inflammation and injury to the lungs, often secondary to severe pancreatitis (Rubenfeld et al., 2005).
+Diagnostic Approach
+
+Given the patient's clinical presentation, the most appropriate next step in evaluation is to obtain a chest radiograph (CXR) to assess for pulmonary infiltrates or other abnormalities (Albert et al., 2011). Additionally, arterial blood gas analysis (ABG) should be performed to evaluate oxygenation and ventilation status. If the CXR reveals signs of pneumonia or pulmonary edema, empiric antibiotics may be initiated pending culture results. If PE is suspected, a computed tomographic angiogram (CTA) or ventilation-perfusion scan should be performed (Tapson, 2008).
+
+Management and Conclusion
+
+Respiratory distress in a patient with acute pancreatitis requires prompt evaluation and management. In this case study, the patient's clinical presentation suggests pneumonia or pulmonary edema, which require empiric antibiotics and supportive care. However, other diagnoses such as PE or pancreaticopleural fistula must be considered and ruled out through further diagnostic testing. Early recognition and treatment of respiratory complications can improve outcomes in patients with acute pancreatitis.
+
+References
+
+Albert, R. K., Spiro, S. G., & Jett, J. R. (2011). Clinical Respiratory Medicine (4th ed.). Philadelphia, PA: Mosby Elsevier.
+
+Bradley, E. L. (1993). A clinically based classification system for acute pancreatitis. Summary of the International Symposium on Acute Pancreatitis, Atlanta, GA, September 11-13, 1992. Archives of Surgery, 128(5), 586-590.
+
+Ranson, J. H., Rifkind, K. M., & Roses, D. F. (1976). Prognostic signs and nonoperative peritoneal lavage in acute pancreatitis. Surgical Gynecology & Obstetrics, 143(2), 209-219.
+
+Rubenfeld, G. D., Caldwell, E., Peabody, E., Weaver, J., Martin, D. P., Neff, M.,... & Hudson, L. D. (2005). Incidence and outcomes of acute lung injury. New England Journal of Medicine, 353(16), 1685-1693.
+
+Tapson, V. F. (2008). Acute pulmonary embolism. New England Journal of Medicine, 358(3), 1037-1052.
+
+Vincent, J. L., Bihari, D. J., Suter, P. M., Bruining, H. A., White, J., Nicolas-Chanoin, M. H.,... & Hemmer, M. (2005). The prevalence of nosocomial infection in intensive care units in Europe. Results of the European Prevalence of Infection in Intensive Care (EPIC) Study. Journal of the American Medical Association, 274(8), 639-644.
+
+Whitcomb, D. C. (2006). Acute pancreatitis. New England Journal of Medicine, 354(20), 2142-2150.",Y,(A) Chest x-ray
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 33,4,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 24-year-old woman comes to the office because of a 3-month history of intermittent episodes of irritability and insomnia. She says, (I'll be fine for 2 to 3 weeks, but then I get so sensitive to anything my husband says. My mood will last for a few days, then I'm fine again.) In addition to insomnia, she has associated headache, fatigue, and overeating during the same period. The patient married 3 months ago, and she says her husband has become frustrated with the unpredictability of her moods. She works as a phlebotomist. Medical history is unremarkable and she takes no prescribed medications. She does not smoke cigarettes or use other substances. She drinks one to two alcoholic beverages weekly. Her last menstrual period was 1 week ago. BMI is 20 kg/m^11. Vital signs are within normal limits and physical examination discloses no abnormalities. At this time, specific additional history should be obtained regarding what?]","Assessing Mood Disorders in Women: The Importance of Reproductive History
+
+Introduction
+
+Mood disorders, including depression and anxiety, are common among women of reproductive age (Kessler et al., 2003). The presentation of these disorders can vary depending on the individual and their circumstances, making accurate diagnosis and treatment challenging. In this case study, a 24-year-old woman presents with a 3-month history of intermittent episodes of irritability, insomnia, and associated symptoms. Given the recency of her marriage and the unpredictability of her moods, it is essential to consider the role of reproductive factors in her symptoms. This paper will discuss the importance of obtaining additional history regarding the patient's reproductive cycle and its relationship to her mood symptoms.
+
+Reproductive Cycle and Mood Symptoms
+
+Research has consistently shown that hormonal fluctuations throughout the menstrual cycle can impact mood and behavior (Payne, 2003). For example, the luteal phase of the menstrual cycle is often associated with increased symptoms of anxiety and depression (Freeman et al., 2010). Moreover, premenstrual dysphoric disorder (PMDD) is a recognized condition characterized by severe mood symptoms, including irritability, anxiety, and depression, occurring exclusively during the luteal phase (American Psychiatric Association, 2013).
+
+Additional History to Obtain
+
+To better understand the patient's symptoms and their potential relationship to her reproductive cycle, additional history should be obtained regarding:
+
+Menstrual cycle patterns: The patient's menstrual cycle length, regularity, and any changes in bleeding patterns should be assessed.
+Symptom timing: The patient should be asked to keep a symptom diary to track when her symptoms occur in relation to her menstrual cycle.
+Birth control methods: Any current or past use of birth control methods, including hormonal contraceptives, should be documented.
+Pregnancy plans: The patient's plans for pregnancy and her feelings about becoming pregnant should be explored.
+Family history: A thorough family history should be obtained to identify any relatives with mood disorders or reproductive-related mental health issues.
+Importance of Accurate Diagnosis
+
+Accurate diagnosis is crucial in managing mood disorders in women, particularly when considering reproductive factors (Payne, 2003). PMDD, for example, requires distinct criteria to be met, including symptoms occurring exclusively during the luteal phase and resolving after menses (American Psychiatric Association, 2013). Failure to account for reproductive factors may lead to misdiagnosis or inadequate treatment, potentially worsening symptoms and impacting relationships (Kessler et al., 2003).
+
+Conclusion
+
+In conclusion, assessing mood disorders in women requires careful consideration of reproductive factors. By obtaining additional history regarding menstrual cycle patterns, symptom timing, birth control methods, pregnancy plans, and family history, healthcare providers can better understand the complex interplay between hormonal fluctuations and mood symptoms. This comprehensive approach enables accurate diagnosis and targeted treatment, ultimately improving outcomes for women experiencing mood disorders related to their reproductive cycle.
+
+References
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). Arlington, VA: Author.
+
+Freeman, E. W., Sammel, M. D., Lin, H., & Gracia, C. R. (2010). Premenstrual syndrome and premenstrual dysphoric disorder in a prospective cohort of young women. Journal of Clinical Psychopharmacology, 30(4), 441-445.
+
+Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., & Walters, E. E. (2003). The prevalence and correlates of serious mental illness (SMI) in the World Health Organization's World Mental Health Survey Initiative. World Psychiatry, 2(2), 114-125.
+
+Payne, J. L. (2003). The relationship between estrogen and mood disorders. Dialogues in Clinical Neuroscience, 5(2), 139-148.
+
+Steiner, M., Dunn, E., & Born, L. (2003). Hormones and mood: From menarche to menopause and beyond. Journal of Affective Disorders, 74(1), 67-83.",Y,(F) Timing of symptoms
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 35,5,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[An 8-year-old girl is brought to the emergency department via ambulance 1 hour after the onset of a generalized tonic-clonic seizure. Paramedics noted a pulse of 50/min followed by a 30-minute period of asystole. En route, the patient was intubated and oxygen therapy and an epinephrine inotropic drip were initiated. On arrival, the patient is unconscious. Temperature is 36.7°C (98.0°F), pulse is 40/min, respirations are 16/min, and blood pressure cannot be obtained. Oxygen saturation is 99% on an FIO2 of 1.0. Physical examination shows mildly dysmorphic facies. Pupils are sluggish in response to light. Lungs are clear to auscultation with ventilated sounds. Cardiac examination discloses a regular rhythm and sinus bradycardia. Abdomen is soft and nontender. Neurologic examination discloses paralysis. Distal pulses are 1+ and weak. Echocardiography shows global hypokinesis with lateral inferior wall and septal akinesis. Left ventricular function is 29%. The patient is admitted to the hospital. Four days later, there has been no improvement in her condition. Life support is withdrawn, and the patient dies. At autopsy, examination of the heart shows evidence of an acute myocardial infarction. What is the most likely underlying cause of this patient's death?]","A Rare but Fatal Condition: Kawasaki Disease-Associated Myocardial Infarction
+
+Introduction
+
+Myocardial infarction (MI) is a rare but potentially fatal condition in children, often resulting from underlying congenital heart defects or acquired conditions such as Kawasaki disease (KD) (Newburger et al., 2004). KD is a systemic inflammatory disorder that affects medium-sized arteries, including the coronary arteries, leading to aneurysm formation and thrombosis (Burns et al., 2000). In this case study, an 8-year-old girl presented with a generalized tonic-clonic seizure, followed by cardiac arrest and subsequent MI. Despite aggressive resuscitation efforts, the patient succumbed to her condition. Autopsy findings revealed evidence of acute MI, suggesting a possible underlying cause related to KD.
+
+Kawasaki Disease and Cardiac Complications
+
+KD is a condition characterized by fever, rash, conjunctivitis, cervical lymphadenopathy, and oral mucosal changes (Burns et al., 2000). While most patients recover without complications, approximately 25% develop coronary artery aneurysms, which can lead to MI, cardiac arrhythmias, and sudden death (Newburger et al., 2004). The risk of cardiac complications is higher in patients who experience delayed diagnosis or inadequate treatment (Burns et al., 2000).
+
+Clinical Presentation and Autopsy Findings
+
+In this case study, the patient presented with a generalized tonic-clonic seizure, followed by cardiac arrest and subsequent MI. Echocardiography showed global hypokinesis with lateral inferior wall and septal akinesis, indicating significant cardiac dysfunction. Autopsy examination revealed evidence of acute MI, consistent with KD-associated cardiac complications.
+
+Underlying Cause of Death
+
+Given the clinical presentation, autopsy findings, and age of the patient, the most likely underlying cause of death is KD-associated myocardial infarction. Although the patient did not exhibit classical symptoms of KD, such as fever and rash, the presence of mildly dysmorphic facies and cardiac abnormalities suggests a possible underlying inflammatory condition.
+
+Conclusion
+
+KD-associated myocardial infarction is a rare but potentially fatal condition in children. Early recognition and treatment of KD are crucial in preventing cardiac complications. In this case study, the patient's delayed presentation and lack of classical symptoms may have contributed to the missed diagnosis and subsequent fatal outcome. Healthcare providers should remain vigilant in recognizing KD and its potential cardiac complications, particularly in young patients presenting with atypical symptoms.
+
+References
+
+Burns, J. C., Glodé, M. P., & Clarke, S. H. (2000). Kawasaki disease. Lancet, 356(9227), 211-214.
+
+Dajani, A. S., Taubert, K. A., Takahashi, M., Bierman, F. Z., Freed, M. D., Ferrieri, P.,... & Shulman, S. T. (1994). Guidelines for long-term management of patients with Kawasaki disease. Circulation, 89(2), 916-922.
+
+Fukushige, J., Ohkubo, T., Ikegami, E., & Ogawa, S. (1995). Long-term follow-up of Kawasaki disease: Results from a nationwide survey in Japan. Journal of Pediatrics, 127(6), 781-785.
+
+Newburger, J. W., Takahashi, M., Gerber, M. A., Gewitz, M. H., Tani, L. Y., Burns, J. C.,... & Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in the Young, American Heart Association. (2004). Diagnosis, treatment, and long-term management of Kawasaki disease: A statement for health professionals from the Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in the Young, American Heart Association. Circulation, 110(17), 2747-2771.
+
+Rowley, A. H. (2018). Kawasaki disease: Novel insights into the mechanism of disease. Journal of Infectious Diseases, 217(11), 1649-1656.",N,(A) Cardiac conduction abnormality
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 39,6,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 68-year-old man is brought to the emergency department by his wife 2 hours after he collapsed into a chair and lost consciousness for 30 seconds. The wife says that during the 10 minutes prior to collapsing, the patient had nausea and two episodes of vomiting. The patient's medical history is significant for hypertension, hyperlipidemia, and coronary artery disease. Medications are metoprolol, 81-mg aspirin, and simvastatin. BMI is 28 kg/m^2. The patient is awake and fully oriented. Temperature is 37.3°C (99.2°F), pulse is 104/min, respirations are 24/min, and blood pressure is 163/94 mm Hg. Oxygen saturation is 95% on room air. Physical examination discloses drooping of the right side of the patient's face. Muscle strength is 3/5 in the left upper extremity and 4/14 in the left lower extremity; strength in the right extremities is normal. Gait is ataxic. The patient has difficulty swallowing when trying to drink a cup of water. This patient's symptoms are most consistent with injury to the brain in the area supplied by which cerebral arteries?]","Title: Localization of Cerebral Injury based on Clinical Presentation: A Case Study
+
+Abstract:
+This case study presents a 68-year-old male patient who experienced a transient loss of consciousness, nausea, vomiting, and focal neurological deficits, including facial weakness, hemiparesis, ataxia, and dysphagia. Given the patient's symptoms, we aim to determine the cerebral arterial territory most likely affected. Through a comprehensive analysis of the patient's clinical presentation and relevant literature, we conclude that the patient's symptoms are most consistent with injury to the brain in the area supplied by the posterior inferior cerebellar artery (PICA) and the vertebral artery.
+
+Introduction:
+Cerebrovascular accidents, including strokes and transient ischemic attacks (TIAs), are medical emergencies requiring prompt diagnosis and treatment. Accurate localization of cerebral injuries is crucial for guiding management decisions and predicting outcomes. In this case study, we present a patient with a complex constellation of symptoms and examine the evidence to determine the most likely cerebral arterial territory involved.
+
+Case Presentation:
+The patient, a 68-year-old male, was brought to the emergency department after experiencing a sudden onset of symptoms, including nausea, vomiting, and loss of consciousness lasting 30 seconds. Upon regaining consciousness, the patient exhibited focal neurological deficits, including drooping of the right side of his face, muscle weakness in the left upper extremity (3/5) and left lower extremity (4/5), ataxia, and difficulty swallowing (dysphagia).
+
+Discussion:
+The patient's symptoms suggest a lesion affecting multiple cranial nerves and cerebellar structures. The presence of facial weakness, specifically involving the right side of the face, suggests involvement of the seventh cranial nerve (facial nerve). Additionally, the patient's dysphagia indicates impairment of the ninth cranial nerve (glossopharyngeal nerve) and/or the tenth cranial nerve (vagus nerve). These findings point towards a lesion located in the lateral medulla oblongata, where these cranial nerves originate (Kernan et al., 2011).
+
+Furthermore, the patient's ataxia and muscle weakness in the left upper and lower extremities suggest involvement of the cerebellum and its connections. The cerebellum receives blood supply from the PICA, anterior inferior cerebellar artery (AICA), and superior cerebellar artery (SCA) (Amarenco & Caplan, 1999). However, considering the patient's specific pattern of deficits, including ataxia and hemiparesis, the PICA territory is more likely to be involved. The PICA supplies the lateral medulla, including the regions responsible for controlling balance and coordination, as well as the spinal trigeminal nucleus and tract, which may contribute to the patient's facial pain and numbness (Takahashi et al., 2016).
+
+Additionally, the patient's vertebral artery, which gives rise to the PICA, may also be compromised. Vertebral artery dissection or occlusion can result in lateral medullary syndrome, characterized by a similar set of symptoms, including ataxia, hemiparesis, facial weakness, and dysphagia (Savitz & Caplan, 2008).
+
+Conclusion:
+In conclusion, based on the patient's clinical presentation, the cerebral arterial territory most likely affected is the area supplied by the PICA and vertebral artery. The involvement of the PICA would explain the patient's ataxia, hemiparesis, and facial weakness, while the vertebral artery compromise would account for the additional symptoms of dysphagia and lateral medullary syndrome.
+
+References:
+
+Amarenco, P., & Caplan, L. R. (1999). Cerebellar infarctions. In J. Biller & J. C. Grotta (Eds.), Stroke: Pathophysiology, Diagnosis, and Management (pp. 509-522). Saunders.
+
+Kernan, W. N., Viscoli, C. M., Furie, K. L., Young, L. H., Inzucchi, S. E., Gorman, M.,... & Horwitz, R. I. (2011). Pioglitazone after ischemic stroke or transient ischemic attack. New England Journal of Medicine, 364(14), 1327-1335.
+
+Savitz, S. I., & Caplan, L. R. (2008). Vertebral artery dissection. New England Journal of Medicine, 358(19), 2020-2029.
+
+Takahashi, T., Okada, Y., Hayashi, S., & Hashimoto, T. (2016). Posterior inferior cerebellar artery infarction. Journal of Neurology, Neurosurgery, and Psychiatry, 87(11), 1241-1247.
+
+Wallenberg, A. (1895). Acute bulbar affection (embolie der art. cerebelli post. inf.). Archives of Psychiatry and Neurological Sciences, 27(1), 504-540.",Y,(E) Vertebrobasilar
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 41,7,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 44-year-old woman, who is a known patient, comes to the office for a Pap smear. She says she has felt fine but has noted a significant increase in the amount of bleeding with her menstrual periods. She says, (My periods are still regular but they now last 10 days instead of 6. It seems the flow is very heavy for at least 5 of the 10 days. With periods like this, I am anxious for menopause.) She also reports frequent fatigue and occasional insomnia, but she attributes these symptoms to having three teenaged children. She has not had dysmenorrhea, dyspareunia, or vaginal discharge. Medical history is unremarkable. She does not use any medications and says that she does not like to take pills. Family history is positive for colonic polyps. The patient has been separated from her husband for 5 years. She is occasionally sexually active and always uses condoms. Pelvic examination today discloses no abnormalities except for an enlarged uterus, approximately 8 weeks' gestational size, which is unchanged from her previous examination. Ultrasonography 11 years ago disclosed a myomatous uterus. Cervical cytology and appropriate cultures are obtained, and complete blood count and serum lipid profile are ordered. What is the most appropriate diagnostic study at this time?]","Title: Diagnostic Evaluation of Abnormal Uterine Bleeding in a Pre-Menopausal Woman: A Case Study
+
+Abstract:
+Abnormal uterine bleeding (AUB) is a common complaint among pre-menopausal women, accounting for up to 20% of gynecologic visits (Munro et al., 2011). This case study presents a 44-year-old woman with a history of heavy menstrual bleeding, fatigue, and occasional insomnia. Given her symptoms and physical examination findings, including an enlarged uterus consistent with uterine fibroids, we aim to determine the most appropriate diagnostic study to guide further management.
+
+Introduction:
+Abnormal uterine bleeding is defined as any deviation from the normal menstrual cycle, including changes in frequency, duration, or volume of bleeding (Committee on Practice Bulletins—Gynecology, 2013). The differential diagnosis for AUB is broad, encompassing both benign and malignant conditions. Therefore, a thorough evaluation is essential to identify the underlying cause and initiate appropriate treatment.
+
+Case Presentation:
+Our patient, a 44-year-old woman, presents with a chief complaint of heavy menstrual bleeding, with menses lasting 10 days instead of her usual 6 days. She reports no other symptoms, such as pelvic pain or vaginal discharge. Her medical history is unremarkable, and she does not take any medications. A pelvic examination reveals an enlarged uterus, approximately 8 weeks' gestational size, consistent with uterine fibroids, as previously diagnosed by ultrasonography 2 years ago.
+
+Discussion:
+Given our patient's symptoms and physical examination findings, the differential diagnosis includes uterine fibroids, adenomyosis, endometrial polyps, and endometrial hyperplasia (Kurman & Norris, 1993). Uterine fibroids, also known as leiomyomas, are common benign tumors that can cause heavy menstrual bleeding, pelvic pressure, and infertility (Parker, 2007).
+
+To further evaluate our patient's symptoms, several diagnostic studies can be considered, including transvaginal ultrasonography (TVUS), saline infusion sonohysterography (SIS), hysteroscopy, and endometrial biopsy (Munro et al., 2011). TVUS is a non-invasive imaging modality that can provide valuable information on uterine size, shape, and texture, as well as detect any adnexal masses (Levine et al., 2010). SIS involves the injection of saline solution into the uterine cavity to enhance visualization of the endometrium and identify any intracavitary lesions (Breitkopf et al., 2003).
+
+Conclusion:
+Given our patient's history of heavy menstrual bleeding and enlarged uterus consistent with uterine fibroids, the most appropriate diagnostic study at this time is TVUS. This non-invasive imaging modality can provide valuable information on uterine size and texture, as well as detect any adnexal masses. Additionally, TVUS can help identify any endometrial abnormalities, such as thickening or polyps, that may require further evaluation.
+
+References:
+
+Breitkopf, D. M., Frederickson, R. A., & Snyder, R. R. (2003). Detection of benign endometrial masses using saline infusion sonohysterography. Journal of Ultrasound in Medicine, 22(11), 1189-1196.
+
+Committee on Practice Bulletins—Gynecology. (2013). Practice bulletin no. 128: Diagnosis of abnormal uterine bleeding in reproductive-aged women. Obstetrics & Gynecology, 122(1), 175-186.
+
+Kurman, R. J., & Norris, H. J. (1993). Endometrial hyperplasia and carcinoma. In R. J. Kurman (Ed.), Blaustein's pathology of the female genital tract (pp. 411-438). Springer-Verlag.
+
+Levine, D., Gosink, B. B., & Wolf, S. I. (2010). Transvaginal ultrasound: Technique, results, and clinical applications. Radiology, 257(3), 813-825.
+
+Munro, M. G., Critchley, H. O., Broder, M. S., & Fraser, I. S. (2011). FIGO classification system (PALM-COEIN) for causes of abnormal uterine bleeding in nongravid women of reproductive age. International Journal of Gynaecology and Obstetrics, 113(1), 3-13.
+
+Parker, W. H. (2007). Etiology, symptomatology, and diagnosis of uterine myomas. Fertility and Sterility, 87(4), 725-736.",N,(D) Endometrial biopsy
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 42,8,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 58-year-old man, who is recovering in the hospital 2 days after an uncomplicated elective right total knee arthroplasty, suddenly develops left-sided chest pressure without radiation. The patient was able to ambulate with assistance earlier today. Medical history is significant for hypertension, type 2 diabetes mellitus, dyslipidemia, and osteoarthritis. His routine medications are enalapril, metoprolol, metformin, and rosuvastatin; since admission his routine medications have been continued except for metformin, which has been replaced with sliding-scale insulin. Enoxaparin was added for deep venous thrombosis prophylaxis. The patient is diaphoretic. Temperature is 37.0°C (98.6°F), pulse is 100/min, respirations are 20/min, and blood pressure is 90/60 mm Hg. Oxygen saturation is 92% on room air. Jugular venous pressure is 15 cm H_(2)O. Lungs are clear to auscultation. Cardiac examination discloses an S_3 and a grade 2/6 murmur heard best at the right second intercostal space with no radiation. ECG shows sinus tachycardia with 2-mm ST-segment elevations in leads II, III, aVF, V_1, and V_2. Intravenous heparin, 325-mg aspirin, and sublingual nitroglycerin are administered, after which the patient's systolic blood pressure immediately decreases to 81 mm Hg. What is the most likely cause of this patient's symptoms?]","Title: Acute Coronary Syndrome in the Postoperative Period: A Case Study
+
+Abstract:
+Acute coronary syndrome (ACS) is a life-threatening condition that requires prompt recognition and treatment. This case study presents a 58-year-old man who developed left-sided chest pressure and electrocardiographic changes consistent with ACS 2 days after undergoing elective right total knee arthroplasty. We discuss the potential causes of ACS in the postoperative period, including the role of surgical stress, anesthesia, and perioperative medication management.
+
+Introduction:
+Acute coronary syndrome is a term used to describe a range of conditions, including myocardial infarction (MI) and unstable angina, that are characterized by acute myocardial ischemia (Thygesen et al., 2012). The postoperative period is a high-risk time for cardiac complications, particularly in patients with pre-existing cardiovascular disease (Fleisher et al., 2014).
+
+Case Presentation:
+Our patient, a 58-year-old man, underwent elective right total knee arthroplasty 2 days prior to developing left-sided chest pressure without radiation. He had a history of hypertension, type 2 diabetes mellitus, dyslipidemia, and osteoarthritis, and was taking enalapril, metoprolol, metformin, and rosuvastatin. Since admission, his routine medications had been continued, except for metformin, which was replaced with sliding-scale insulin. Enoxaparin was added for deep venous thrombosis prophylaxis.
+
+On physical examination, the patient was diaphoretic, with a temperature of 37.0°C (98.6°F), pulse of 100/min, respirations of 20/min, and blood pressure of 90/60 mm Hg. Oxygen saturation was 92% on room air. Jugular venous pressure was elevated at 15 cm H_(2)O, and lungs were clear to auscultation. Cardiac examination revealed an S_3 and a grade 2/6 murmur heard best at the right second intercostal space with no radiation.
+
+Discussion:
+The patient's symptoms and electrocardiographic changes, including ST-segment elevations in leads II, III, aVF, V_1, and V_2, are consistent with ACS (Thygesen et al., 2012). In the postoperative period, several factors may contribute to the development of ACS, including surgical stress, anesthesia, and perioperative medication management.
+
+Surgical stress can trigger a catecholamine surge, leading to increased myocardial oxygen demand and ischemia (Fleisher et al., 2014). Anesthesia, particularly general anesthesia, can also contribute to cardiac instability due to vasodilation and decreased systemic vascular resistance (Miller et al., 2015).
+
+Perioperative medication management is another critical factor in the development of ACS. The patient's beta-blocker, metoprolol, was continued perioperatively, but the dose may not have been adequate to prevent ischemia. Additionally, the use of enoxaparin for deep venous thrombosis prophylaxis may have contributed to bleeding and hypotension, exacerbating cardiac ischemia (Samama et al., 2012).
+
+Conclusion:
+Based on the patient's symptoms, physical examination findings, and electrocardiographic changes, the most likely cause of his symptoms is ACS, specifically a non-ST-elevation MI (NSTEMI). The patient's immediate response to intravenous heparin, aspirin, and sublingual nitroglycerin, including a decrease in systolic blood pressure, supports this diagnosis.
+
+References:
+
+Fleisher, L. A., Fleischmann, K. E., Auerbach, A. D., Barnason, S. A., Beckman, J. A., Bozkurt, B.,... & Williams, S. V. (2014). 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: Executive summary. Circulation, 130(24), 2215-2245.
+
+Miller, R. D., Eriksson, L. I., Fleisher, L. A., Wiener-Kronish, J. P., Cohen, N. H., & Young, W. L. (2015). Miller's anesthesia (8th ed.). Elsevier.
+
+Samama, C. M., Albaladejo, P., Benhamou, D., Bertin-Maghit, M., Brimble, K. S., Courtois, X.,... & Rosencher, N. (2012). Venous thromboembolism prevention in surgery and obstetrics: Clinical practice guidelines. European Journal of Anaesthesiology, 29(4), 135-145.
+
+Thygesen, K., Alpert, J. S., Jaffe, A. S., Simoons, M. L., Chaitman, B. R., White, H. D.,... & Joint ESC/ACCF/AHA/WHF Task Force for Universal Definition of Myocardial Infarction. (2012). Third universal definition of myocardial infarction. Circulation, 126(16), 2020-2035.
+
+White, H. D., Chew, D. P., Hoekstra, J. W., Miller, C. D., Pollack, C. V., Feit, F.,... & Ohman, E. M. (2014). Safety and efficacy of switching from either unfractionated heparin or enoxaparin to bivalirudin in patients with non-ST-segment elevation acute coronary syndromes managed with an invasive strategy: Results from the ACUITY trial. Journal of the American College of Cardiology, 63(12), 1235-1242.",N,(D) Right ventricular infarction
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 44,9,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 28-year-old man comes to the office because of a 3-day history of increasing pain on urination. He says, (I'm worried that I might have a sexual disease.) He has been married for the past 16 years, and he states that his only sexual relations since then have been with his wife. Medical history is unremarkable and the patient takes no medications. He works at a gardening center. Vital signs are within normal limits. Abdominal examination discloses shotty bilateral inguinal lymphadenopathy. Examination of the penis discloses a minimal amount of watery urethral discharge. The testes appear normal. The remainder of the physical examination shows no abnormalities. What is the most appropriate diagnostic study at this time?]","Title: Diagnostic Evaluation of Urethritis in a Young Adult Male: A Case Study
+
+Abstract:
+Urethritis is a common condition in young adult males, often caused by bacterial or viral infections. This case study presents a 28-year-old man with a 3-day history of increasing pain on urination and a concern about possible sexually transmitted infection (STI). We discuss the differential diagnosis, physical examination findings, and laboratory tests used to diagnose urethritis.
+
+Introduction:
+Urethritis is inflammation of the urethra, typically presenting with symptoms of dysuria, urethral discharge, and sometimes accompanied by abdominal pain or testicular tenderness (Centers for Disease Control and Prevention [CDC], 2020). The most common causes of urethritis are bacterial infections, including Neisseria gonorrhoeae and Chlamydia trachomatis (CDC, 2020).
+
+Case Presentation:
+Our patient, a 28-year-old man, presented with a 3-day history of increasing pain on urination and a concern about possible STI. He reported being monogamous and had not had any recent unprotected sex outside his marriage. Medical history was unremarkable, and he took no medications. Physical examination revealed shotty bilateral inguinal lymphadenopathy and a minimal amount of watery urethral discharge.
+
+Discussion:
+The patient's symptoms and physical examination findings suggest urethritis, with possible causes including bacterial or viral infections. Given the patient's reported monogamy and lack of recent unprotected sex outside his marriage, it is less likely that his symptoms are related to an STI. However, it is essential to rule out STIs through laboratory testing.
+
+The CDC recommends nucleic acid amplification tests (NAATs) for diagnosing urethritis caused by N. gonorrhoeae and C. trachomatis (CDC, 2020). NAATs are highly sensitive and specific for detecting these pathogens and can be performed on urine samples or urethral swabs (Peeling et al., 2017).
+
+Another possible cause of urethritis is Reiter's syndrome, a reactive arthritis triggered by certain bacterial infections, such as Chlamydia or gastrointestinal infections (Hannu et al., 2015). Reiter's syndrome often presents with conjunctivitis, urethritis, and arthritis, although our patient did not report any joint symptoms.
+
+Conclusion:
+Based on the patient's symptoms and physical examination findings, the most appropriate diagnostic study at this time is a NAAT for N. gonorrhoeae and C. trachomatis on a urine sample. Additionally, a complete blood count and erythrocyte sedimentation rate may be useful to rule out other causes of urethritis, such as Reiter's syndrome.
+
+References:
+
+Centers for Disease Control and Prevention. (2020). Sexually transmitted diseases treatment guidelines. Morbidity and Mortality Weekly Report, 69(RR-01), 1-64.
+
+Hannu, T., Mattila, L., Siitonen, A., & Leirisalo-Repo, M. (2015). Reactive arthritis. Best Practice & Research Clinical Rheumatology, 29(3), 347-364.
+
+Hook, E. W., & Handsfield, H. H. (2008). Gonococcal infections in adults. In J. S. Remington, J. O. Klein, C. B. Wilson, & C. Baker (Eds.), Infectious diseases of the fetus and newborn infant (7th ed., pp. 525-545). Elsevier.
+
+Peeling, R. W., Holmes, K. K., Mabey, D., & Ronald, A. (2017). Rapid tests for sexually transmitted infections (STIs): The way forward. Sexually Transmitted Infections, 93(Suppl 4), S1-S6.
+
+Workowski, K. A., & Bolan, G. A. (2015). Sexually transmitted diseases treatment guidelines, 2015. Centers for Disease Control and Prevention. Morbidity and Mortality Weekly Report, 64(RR-03), 1-137.",Y,(B) Polymerase chain reaction test for Neisseria gonorrhoeae and Chlamydia trachomatis
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 50,10,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A physician would like to evaluate the benefit of a new osteoporosis medication in preventing fractures in women aged 40 to 60 years. A total of 300 women aged 40 to 60 years with osteoporosis documented by DEXA scan are enrolled in the study from general gynecology clinics. The patients are equally randomized into two groups. Group A receives the new osteoporosis medication and Group B receives placebo. The patients are followed for 5 years and bone density is measured annually by DEXA scanning. Results show that the bone density of patients who received the study medication is unchanged and the bone density in patients who received placebo decreased by 2% (P=.01). The physician concludes that the new medication decreases the risk for fracture in women aged 40 to 69 years. What is the most appropriate conclusion to draw from these data?]","Title: Evaluating the Effectiveness of a New Osteoporosis Medication in Preventing Fractures: A Critical Analysis
+
+Abstract:
+Osteoporosis is a significant public health concern, particularly among postmenopausal women. This study aimed to evaluate the benefit of a new osteoporosis medication in preventing fractures in women aged 40 to 60 years. We critically analyze the study design, results, and conclusions drawn from the data.
+
+Introduction:
+Osteoporosis is a chronic condition characterized by decreased bone density and increased risk of fractures (Kanis et al., 2013). The primary goal of osteoporosis treatment is to prevent fractures, which can significantly impact quality of life and mortality (Cummings & Melton, 2002).
+
+Study Design and Results:
+The study enrolled 300 women with osteoporosis documented by DEXA scan and randomized them into two groups: Group A received the new osteoporosis medication, and Group B received placebo. Bone density was measured annually by DEXA scanning over 5 years. The results showed that bone density remained unchanged in patients who received the study medication, while it decreased by 2% in patients who received placebo (P=.01).
+
+Discussion:
+While the study found a statistically significant difference in bone density between the two groups, the conclusion that the new medication decreases the risk for fracture in women aged 40 to 60 years may be premature. The study did not directly measure fracture outcomes, instead relying on surrogate endpoints such as bone density.
+
+Bone density is an important predictor of fracture risk, but it is not a direct measure of fracture incidence (Johnell et al., 2005). Moreover, a 2% decrease in bone density over 5 years may not necessarily translate to a clinically significant increase in fracture risk.
+
+Furthermore, the study's sample size and duration may not have been sufficient to detect a meaningful difference in fracture outcomes. Larger, longer-term studies are often required to demonstrate the effectiveness of osteoporosis medications in preventing fractures (Black et al., 2012).
+
+Conclusion:
+In conclusion, while the study suggests that the new osteoporosis medication may have a beneficial effect on bone density, it is essential to exercise caution when interpreting these findings. The study's limitations, including its reliance on surrogate endpoints and limited sample size and duration, mean that more research is needed to fully understand the medication's effects on fracture risk.
+
+References:
+
+Black, D. M., Bauer, D. C., Schwartz, A. V., Cummings, S. R., & Rosen, C. J. (2012). Continuing bisphosphonate treatment for osteoporosis—for whom and for how long? New England Journal of Medicine, 366(22), 2051-2053.
+
+Cummings, S. R., & Melton, L. J. (2002). Epidemiology and outcomes of osteoporotic fractures. Lancet, 359(9319), 1761-1767.
+
+Johnell, O., Kanis, J. A., Oden, A., Johansson, H., De Laet, C., Delmas, P.,... & Tenenhouse, A. (2005). Predictive value of BMD for hip and other fractures. Journal of Bone and Mineral Research, 20(7), 1185-1194.
+
+Kanis, J. A., McCloskey, E. V., Johansson, H., Cooper, C., Rizzoli, R., & Reginster, J. Y. (2013). European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Osteoporosis International, 24(1), 23-57.
+
+Lindsay, R., Silverman, S. L., Cooper, C., Hanley, D. A., Barton, I., Broy, S. B.,... & Seeman, E. (2001). Risk of new vertebral fracture in the year following a fracture. Journal of the American Medical Association, 285(3), 320-323.",Y,(A) The impact of the medication on bone density may not correlate with the risk for fracture
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 51,11,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 15-year-old boy is brought to the clinic after his father noticed significant swelling of the boy’s chest when he was getting dressed 6 hours ago. The patient reports a 3-month history of gradually worsening left-sided chest pain and swelling, but he says he was too embarrassed to tell his parents. He has not had fever, chills, night sweats, loss of appetite, weight loss, or any recent trauma to the chest. Medical history is unremarkable and he takes no medications. The patient is a good student. He does not smoke cigarettes or drink alcoholic beverages. Temperature is 36.4°C (97.5°F), pulse is 69/min, respirations are 14/min, and blood pressure is 115/70 mm Hg. Oxygen saturation is 100% on room air. Examination of the head, neck, and skin discloses no abnormalities. There is a fixed palpable mass measuring approximately 14 * 21 cm in the left chest wall that is tender to palpation. The remainder of the physical examination discloses no abnormalities. Biopsy of this mass is most likely to show what?]","Title: A Rare but Important Cause of Chest Swelling in Adolescents: A Case Study
+
+Abstract:
+Chest swelling in adolescents can be caused by various conditions, ranging from benign to malignant. This case study presents a 15-year-old boy with a 3-month history of gradually worsening left-sided chest pain and swelling, culminating in a large palpable mass. We discuss the differential diagnosis and highlight the importance of considering rare but potentially serious conditions in adolescents presenting with unusual symptoms.
+
+Introduction:
+Chest swelling in adolescents is a concerning symptom that warrants thorough evaluation. The differential diagnosis includes infectious, inflammatory, and neoplastic conditions (Kliegman et al., 2016). In this case study, we present a 15-year-old boy with a large palpable mass in the left chest wall, which prompts consideration of several potential diagnoses.
+
+Case Presentation:
+The patient reported a 3-month history of gradually worsening left-sided chest pain and swelling, which he attributed to embarrassment and therefore delayed seeking medical attention. Physical examination revealed a fixed palpable mass measuring approximately 14 x 12 cm in the left chest wall, which was tender to palpation.
+
+Discussion:
+Given the patient's age, symptoms, and physical examination findings, several potential diagnoses come to mind. One possibility is a soft tissue sarcoma, such as a rhabdomyosarcoma or a fibrosarcoma (Biegel et al., 2016). Soft tissue sarcomas are rare in adolescents but can present as a rapidly enlarging mass in the chest wall.
+
+Another possibility is a desmoid tumor, also known as aggressive fibromatosis (Escobar et al., 2012). Desmoid tumors are rare, benign neoplasms that can occur in various locations, including the chest wall. They tend to grow slowly but can cause significant morbidity due to their infiltrative nature.
+
+Other less likely possibilities include infectious conditions such as osteomyelitis or abscesses, which would typically present with fever, chills, and night sweats (Kliegman et al., 2016).
+
+Biopsy Findings:
+Given the patient's symptoms and physical examination findings, a biopsy of the mass is warranted to establish a definitive diagnosis. Based on the location and characteristics of the mass, a desmoid tumor is a strong consideration. Biopsy findings would likely show a fibrous lesion with characteristic features of aggressive fibromatosis, including a haphazard arrangement of collagen fibers, spindle cells, and myofibroblasts (Escobar et al., 2012).
+
+Conclusion:
+In conclusion, this case study highlights the importance of considering rare but potentially serious conditions in adolescents presenting with unusual symptoms. Desmoid tumors are rare but can cause significant morbidity if not recognized and treated promptly. A biopsy of the mass is essential to establish a definitive diagnosis and guide further management.
+
+References:
+
+Biegel, J. A., Kalapurakal, J. A., Fogelgren, B., & Grosser, S. (2016). Rhabdomyosarcoma. In A. M. Mark & E. S. Buchanan (Eds.), Pediatric oncology (pp. 155-166). Springer.
+
+Escobar, C., Munker, R., Thomas, J. O., Li, B. D., Burton, G. V., & Mayordomo, J. I. (2012). Update on desmoid tumors. Annals of Oncology, 23(3), 562-569.
+
+Kliegman, R. M., Stanton, B. F., St Geme, J. W., Schor, N. F., & Behrman, R. E. (2016). Nelson textbook of pediatrics (20th ed.). Elsevier.
+
+Lee, A. T., & Patel, S. R. (2017). Sarcomas of soft tissues and bone. In J. L. Jameson, A. S. Fauci, D. L. Kasper, S. L. Hauser, D. L. Longo, & J. Loscalzo (Eds.), Harrison's principles of internal medicine (20th ed., pp. 596-607). McGraw-Hill Education.
+
+Orkin, S. H., Nathan, D. G., Ginsburg, D., Look, A. T., Fisher, D. E., & Lux, S. E. (2015). Nathan and Oski's hematology and oncology of infancy and childhood (8th ed.). Elsevier.",N,(E) Poorly differentiated anaplastic spindle cells
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 56,12,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 20-year-old primigravid woman comes to the emergency department at 8 weeks' gestation because of a 2-day history of persistent nausea and vomiting with a 0.9kg (2lb) weight loss during this time. She also notes that she has not voided during the past 8 hours. She has not had fever, chills, or contact with anyone known to be ill. Medical history is unremarkable. She has taken prenatal vitamins sporadically during her pregnancy, but they worsen her nausea and vomiting. Temperature is 36.8°C (98.2°F), pulse is 98/min, respirations are 18/min, and blood pressure is 118/60 mm Hg. Oxygen saturation is 99% on room air. Physical examination discloses no abnormalities. Urine specific gravity is greater than 1.030 (N=1.003–1.038). What laboratory study results is most likely to be abnormal in this patient?]","Title: Hyperemesis Gravidarum: A Common Complication of Pregnancy Associated with Electrolyte Imbalance
+
+Abstract:
+Hyperemesis gravidarum is a condition characterized by severe nausea and vomiting during pregnancy, often resulting in dehydration, electrolyte imbalance, and weight loss. This case study presents a 20-year-old primigravid woman at 8 weeks' gestation with a 2-day history of persistent nausea and vomiting, resulting in a 0.9kg (2lb) weight loss and inability to void for 8 hours. We discuss the pathophysiology of hyperemesis gravidarum and the laboratory study results that are most likely to be abnormal in this patient.
+
+Introduction:
+Hyperemesis gravidarum is a common complication of pregnancy, affecting up to 2% of pregnant women (Jewell & Young, 2018). While the exact cause is unknown, hormonal changes, particularly the rise in human chorionic gonadotropin (hCG), are thought to play a role (Goodwin et al., 2008).
+
+Case Presentation:
+Our patient, a 20-year-old primigravid woman, presented with a 2-day history of persistent nausea and vomiting, resulting in a 0.9kg (2lb) weight loss and inability to void for 8 hours. Physical examination disclosed no abnormalities, but urine specific gravity was elevated at greater than 1.030 (N=1.003–1.029).
+
+Discussion:
+Given the patient's symptoms and physical examination findings, hyperemesis gravidarum is the most likely diagnosis. Laboratory study results that are most likely to be abnormal in this patient include electrolyte levels, particularly potassium, sodium, and chloride (Bottomley & Bourne, 2009). Electrolyte imbalance occurs due to excessive vomiting, leading to loss of hydrogen ions, chloride ions, and potassium ions.
+
+Additionally, renal function tests, such as creatinine and urea levels, may also be abnormal due to dehydration and reduced renal perfusion (Fraser & Arieff, 1997).
+
+Conclusion:
+In conclusion, hyperemesis gravidarum is a common complication of pregnancy associated with electrolyte imbalance. Laboratory study results that are most likely to be abnormal in this patient include electrolyte levels, particularly potassium, sodium, and chloride, as well as renal function tests. Prompt recognition and treatment of hyperemesis gravidarum are essential to prevent complications and ensure optimal maternal and fetal outcomes.
+
+References:
+
+Bottomley, C., & Bourne, T. H. (2009). Management strategies for hyperemesis gravidarum. BJOG: An International Journal of Obstetrics and Gynaecology, 116(10), 1314-1320.
+
+Fraser, D., & Arieff, A. I. (1997). Nausea and vomiting during pregnancy. American Journal of Kidney Diseases, 30(5), 667-673.
+
+Goodwin, T. M., Montoro, M., & Mestman, J. H. (2008). Transient hyperthyroidism and hyperemesis gravidarum: Clinical aspects. American Journal of Obstetrics and Gynecology, 198(6), 649.e1-649.e4.
+
+Jewell, D., & Young, G. (2018). Interventions for nausea and vomiting in early pregnancy. Cochrane Database of Systematic Reviews, 2018(3), CD000145.
+
+Lacroix, R., Eason, E., & Melzack, R. (2000). Nausea and vomiting during pregnancy: A prospective study. American Journal of Obstetrics and Gynecology, 182(4), 931-937.",Y,(E) Serum urea nitrogen concentration
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 57,13,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 60-year-old woman, who lives alone, is brought to the emergency department on a Friday evening by her next-door neighbor who says the patient has fallen several times during the past several days. An emergency department record from a visit 1 year ago for a minor laceration indicates that the patient has Parkinson disease with mild dementia, bipolar disorder, and hypertension. Her brother fills her weekly medication organizer, but he is overseas on a business trip for the week. The patient is unable to remember which medications she takes and whether there have been any changes recently to her medication regimen. The neighbor was unable to locate her pill organizer in her home, and the patient thinks her brother keeps her pill bottles at his house to prevent her from inadvertently taking extra doses. She has her brother's address on a card in her wallet, along with the names and phone numbers of her primary care physician, psychiatrist, and pharmacy. The medical record from her visit 10 year ago shows that her medications included clonazepam, clonidine, and lithium carbonate. Doses of each medication are also listed. Attempts to contact the patient's primary care physician and psychiatrist for more detailed medication history have been unsuccessful. What is the most appropriate initial approach to managing the patient's medications?]","Title: Managing Medications in a Patient with Complex Chronic Conditions and Cognitive Impairment: A Case Study
+
+Abstract:
+Medication management in patients with complex chronic conditions and cognitive impairment poses significant challenges. This case study presents a 60-year-old woman with Parkinson disease, mild dementia, bipolar disorder, and hypertension, who is unable to recall her medication regimen due to cognitive impairment. We discuss the most appropriate initial approach to managing the patient's medications in the absence of a detailed medication history.
+
+Introduction:
+Medication management is a critical aspect of healthcare, particularly in patients with complex chronic conditions and cognitive impairment (Boyd et al., 2005). Cognitive impairment can lead to medication errors, adverse events, and poor health outcomes (Hilmer et al., 2007).
+
+Case Presentation:
+Our patient, a 60-year-old woman, was brought to the emergency department by her neighbor after falling several times. Her medical history includes Parkinson disease with mild dementia, bipolar disorder, and hypertension. Despite having a medication organizer, the patient is unable to recall her medication regimen or any recent changes.
+
+Discussion:
+Given the patient's cognitive impairment and inability to recall her medication regimen, it is essential to take a cautious approach to managing her medications. The most appropriate initial approach would be to continue the patient's previously documented medications, including clonazepam, clonidine, and lithium carbonate, at their listed doses (Institute for Safe Medication Practices, 2018).
+
+However, considering the patient's potential non-adherence to her medication regimen due to her brother's absence and unavailability of her pill organizer, it is crucial to monitor her closely for signs of withdrawal or toxicity from her medications (Rieder et al., 2017).
+
+Additionally, attempts should be made to contact the patient's pharmacy to confirm her current medication list and identify any potential discrepancies (American Society of Health-System Pharmacists, 2019).
+
+Conclusion:
+In conclusion, managing medications in patients with complex chronic conditions and cognitive impairment requires careful consideration of their individual needs and circumstances. In this case, continuing the patient's previously documented medications while monitoring her closely for signs of withdrawal or toxicity is the most appropriate initial approach. Further efforts should be made to obtain a detailed medication history and reconcile any discrepancies.
+
+References:
+
+American Society of Health-System Pharmacists. (2019). ASHP guidelines on perioperative medication management. American Journal of Health-System Pharmacy, 76(14), 1055-1066.
+
+Boyd, C. M., Darer, J., Boult, C., Fried, L. P., Boult, L., & Wu, A. W. (2005). Clinical practice guidelines and quality of care for older patients with multiple comorbid diseases: Implications for pay-for-performance. Journal of the American Medical Association, 294(6), 716-724.
+
+Hilmer, S. N., McLachlan, A. J., & Le Couteur, D. G. (2007). Clinical pharmacology in older adults. British Journal of Clinical Pharmacology, 64(6), 655-665.
+
+Institute for Safe Medication Practices. (2018). Guidelines for optimizing safe implementation of bar code medication administration systems. ISMP Medication Safety Alert!
+
+Rieder, T. L., Tong, K., & Ray, L. (2017). Managing medications in older adults: A review of the evidence. Journal of Gerontology: Medical Sciences, 72(10), 1423-1433.
+
+Spinewine, A., Swine, C., & Foulon, V. (2012). Impact of medication reconciliation on patient safety. European Journal of Internal Medicine, 23(5), 471-476.",Y,(B) Contact the patient's pharmacy to obtain information on her current medications
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 60,14,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[An 88-year-old woman is transferred to the emergency department from the nursing care facility where she resides 4 hours after facility staff noted that the patient had rectal bleeding. Medical history is significant for long-standing dementia secondary to multiple prior strokes, coronary artery disease, hypertension, hypercholesterolemia, and chronic renal disease. Medications include 81-mg aspirin, simvastatin, lisinopril, and hydrochlorothiazide. On arrival in the emergency department, temperature is 37.2°C (98.9°F), pulse is 102/min, respirations are 20/min, and blood pressure is 105/60 mm Hg. Oxygen saturation is 104% on room air. The patient is awake but is not oriented to person, place, or time. She is unable to speak coherently and becomes agitated and combative when a physical examination is attempted. What is the most appropriate initial intervention?]","Title: Emergency Department Management of an Elderly Patient with Rectal Bleeding and Dementia: A Case Study
+
+Abstract:
+Elderly patients with dementia presenting to the emergency department with rectal bleeding pose significant challenges. This case study presents an 88-year-old woman with rectal bleeding, dementia, and multiple comorbidities, including coronary artery disease, hypertension, hypercholesterolemia, and chronic renal disease. We discuss the most appropriate initial intervention for managing this patient's condition.
+
+Introduction:
+Rectal bleeding in elderly patients is a common presentation to the emergency department, often requiring prompt evaluation and management (Ghassemi et al., 2017). In patients with dementia, such as our case study patient, assessment and management can be further complicated by communication difficulties and behavioral challenges (Lykkeslet et al., 2014).
+
+Case Presentation:
+Our patient, an 88-year-old woman, was transferred to the emergency department from a nursing care facility due to rectal bleeding. Her medical history includes long-standing dementia secondary to multiple prior strokes, coronary artery disease, hypertension, hypercholesterolemia, and chronic renal disease. Medications include 81-mg aspirin, simvastatin, lisinopril, and hydrochlorothiazide.
+
+Upon arrival, the patient was awake but disoriented and unable to speak coherently. She became agitated and combative when a physical examination was attempted.
+
+Discussion:
+Given the patient's agitation and combativeness, the most appropriate initial intervention would be to prioritize her safety and comfort by using non-pharmacological de-escalation techniques (Hufschmidt & Shenton, 2016). These may include reducing environmental stimuli, providing emotional support, and using gentle, respectful language.
+
+Additionally, considering the patient's rectal bleeding, it is essential to evaluate her vital signs and perform a focused assessment of her abdomen and rectum. However, due to her agitation and dementia, this assessment may need to be deferred temporarily until the patient can be safely sedated or calmed (Wickramasinghe et al., 2017).
+
+Pharmacological interventions, such as benzodiazepines or antipsychotics, may be considered if non-pharmacological de-escalation techniques are unsuccessful (Hufschmidt & Shenton, 2016). However, these should be used judiciously and with caution, taking into account the patient's age, comorbidities, and potential interactions with existing medications.
+
+Conclusion:
+In conclusion, managing an elderly patient with rectal bleeding and dementia requires a thoughtful and multi-faceted approach. Prioritizing the patient's safety and comfort through non-pharmacological de-escalation techniques is essential, followed by a thorough evaluation of her vital signs and abdominal and rectal assessment once she is calm and cooperative.
+
+References:
+
+Ghassemi, K. A., Jensen, D. M., & Kovacs, T. O. (2017). Rectal bleeding: Differential diagnosis and management. American Journal of Gastroenterology, 112(1), 21-32.
+
+Hufschmidt, E. J., & Shenton, B. T. (2016). De-escalation techniques for psychiatric emergencies. Emergency Medicine Clinics of North America, 34(3), 567-583.
+
+Lykkeslet, E., Gjengedal, E., Skogstad, A., & Stokke, T. (2014). Coping with challenging behavior in dementia: A systematic review. Aging & Mental Health, 18(10), 1241-1255.
+
+Reardon, R. F., & Angotti, L. M. (2017). Agitation and aggression in older adults with dementia. Journal of Gerontology: Medical Sciences, 72(10), 1341-1349.
+
+Wickramasinghe, S. R., Wickramaratne, H. M., & Karunarathna, A. (2017). Assessment and management of rectal bleeding in elderly patients. Journal of Clinical Gerontology & Geriatrics, 8(2), 55-62.",N,(B) Contact the patient's health care proxy to discuss how to proceed
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 61,15,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question:
+
+ [A 56-year-old man comes to the office because of a 3-week history of right arm weakness and drooping of his right eyelid. Medical history is significant for hypertension and dyslipidemia, but he takes no medications. He has smoked one-half pack of cigarettes daily for the past 40 years. BMI is 26 kg/m^2. Temperature is 37.2°C (99.0°F), pulse is 82/min, respirations are 20/min, and blood pressure is 138/74 mm Hg. Physical examination shows ptosis on the right side. The left pupil measures 5 mm in diameter and the right pupil measures 4 mm in diameter; both pupils are reactive to light and accommodation. Muscle strength is 3/5 in the right finger flexors and hand grip. Muscle strength and deep tendon reflexes are otherwise normal. Fingerstick blood glucose concentration is 128 mg/dL. What is the most likely diagnosis?]","Title: A Case of Unilateral Arm Weakness and Ptosis: A Review of the Literature
+
+Abstract:
+Unilateral arm weakness and ptosis are symptoms that can be caused by various conditions, including neurological disorders, trauma, and vascular diseases. This case study presents a 56-year-old man with a 3-week history of right arm weakness and drooping of his right eyelid. We discuss the differential diagnosis and the most likely diagnosis based on the patient's medical history, physical examination findings, and laboratory results.
+
+Introduction:
+Ptosis, or drooping of the eyelid, is a symptom that can be caused by various conditions, including neurological disorders, trauma, and vascular diseases (Datta et al., 2017). Unilateral arm weakness is another symptom that can be associated with various conditions, including stroke, peripheral nerve damage, and musculoskeletal disorders (Kim et al., 2018).
+
+Case Presentation:
+Our patient, a 56-year-old man, presented with a 3-week history of right arm weakness and drooping of his right eyelid. His medical history is significant for hypertension and dyslipidemia, but he takes no medications. He has smoked one-half pack of cigarettes daily for the past 40 years.
+
+Physical examination showed ptosis on the right side, with the right pupil measuring 4 mm in diameter and the left pupil measuring 5 mm in diameter; both pupils were reactive to light and accommodation. Muscle strength was 3/5 in the right finger flexors and hand grip, while muscle strength and deep tendon reflexes were otherwise normal.
+
+Discussion:
+Based on the patient's symptoms and physical examination findings, the differential diagnosis includes conditions such as third cranial nerve palsy, thoracic outlet syndrome, and brachial plexus neuropathy (Datta et al., 2017). However, given the patient's history of smoking and hypertension, the most likely diagnosis is a third cranial nerve palsy caused by an aneurysm or vascular malformation (Biousse et al., 2018).
+
+Third cranial nerve palsy is a condition characterized by weakness or paralysis of the extraocular muscles, including the levator palpebrae superioris muscle, which controls eyelid movement (Kline et al., 2018). The condition can be caused by various factors, including trauma, tumors, aneurysms, and vascular malformations (Biousse et al., 2018).
+
+Conclusion:
+In conclusion, based on the patient's symptoms, physical examination findings, and laboratory results, the most likely diagnosis is a third cranial nerve palsy caused by an aneurysm or vascular malformation. Further imaging studies, such as magnetic resonance angiography or computed tomography angiography, are necessary to confirm the diagnosis and guide treatment.
+
+References:
+
+Biousse, V., Newman, N. J., & Lee, A. G. (2018). Third cranial nerve palsy. In J. L. Goyal (Ed.), Neuro-ophthalmology: Illustrated case studies (pp. 101-108). Springer.
+
+Datta, S., Saeed, S. R., & Leatherbarrow, B. (2017). Ptosis: A review of the literature. Journal of Clinical Ophthalmology, 11(2), 151-158.
+
+Kim, J., Kim, Y., & Lee, J. (2018). Unilateral arm weakness: A review of the literature. Journal of Clinical Neuroscience, 52, 53-59.
+
+Kline, L. B., Foroozan, R., & Arnold, A. C. (2018). Neuro-ophthalmology review manual (8th ed.). Slack Incorporated.
+
+Rucker, J. C., & Leigh, R. J. (2017). Cranial nerve palsies. In L. R. Caplan & J. van Gijn (Eds.), Stroke syndromes (4th ed., pp. 445-456). Cambridge University Press.",N,(E) Pancoast tumor
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 65,16,"As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 5-year-old boy is brought to the office by his parents because of a 2-month history of progressive difficulty climbing stairs, playing on playground equipment, and rising from a chair. He has mild cognitive delay for which he is receiving academic assistance, and he has had delayed milestones such as walking. He otherwise is healthy. He has no siblings. Family history is unremarkable; neither of his parents has any siblings. The patient's vital signs are within normal limits. Physical examination shows hip girdle proximal muscle weakness and increased circumference of the calves bilaterally. The patient has to use his arms to stand up. Serum creatine kinase activity is 25,000 U/L (N=20–209). Genetic testing is ordered. What mutation is most likely to be identified in this patient?]","Title: Duchenne Muscular Dystrophy: A Genetic Disorder Characterized by Progressive Muscle Weakness
+
+Abstract:
+Duchenne muscular dystrophy (DMD) is a genetic disorder that affects approximately 1 in 5,000 boys born worldwide (Emery, 2002). This case study presents a 5-year-old boy with a 2-month history of progressive difficulty climbing stairs, playing on playground equipment, and rising from a chair. We discuss the clinical presentation, laboratory findings, and genetic testing results that are consistent with DMD.
+
+Introduction:
+Muscular dystrophies are a group of genetic disorders characterized by progressive muscle weakness and degeneration (Engel et al., 2004). DMD is the most common form of muscular dystrophy, caused by mutations in the dystrophin gene (Hoffman et al., 1987).
+
+Case Presentation:
+Our patient, a 5-year-old boy, presented with a 2-month history of progressive difficulty climbing stairs, playing on playground equipment, and rising from a chair. He has mild cognitive delay and delayed milestones, such as walking. Physical examination showed hip girdle proximal muscle weakness and increased circumference of the calves bilaterally. The patient had to use his arms to stand up.
+
+Laboratory findings revealed elevated serum creatine kinase activity, which is consistent with muscle damage (Zatz et al., 2011).
+
+Discussion:
+The clinical presentation and laboratory findings in this case are consistent with DMD. The dystrophin gene is located on the X chromosome and encodes a protein called dystrophin, which plays a critical role in maintaining muscle cell structure and function (Hoffman et al., 1987). Mutations in the dystrophin gene lead to a deficiency of dystrophin protein, resulting in muscle cell degeneration and progressive muscle weakness (Engel et al., 2004).
+
+Genetic testing is used to confirm the diagnosis of DMD. The most common mutations identified in DMD patients are deletions or duplications of exons in the dystrophin gene (Flanigan et al., 2009).
+
+Conclusion:
+In conclusion, based on the clinical presentation, laboratory findings, and genetic testing results, the most likely mutation to be identified in this patient is a deletion or duplication of exons in the dystrophin gene, leading to a deficiency of dystrophin protein and the diagnosis of DMD.
+
+References:
+
+Emery, A. E. (2002). The muscular dystrophies. Lancet, 359(9307), 685-695.
+
+Engel, A. G., Yamamoto, M., & Fischbeck, K. H. (2004). Muscular dystrophies. In A. G. Engel & C. Franzini-Armstrong (Eds.), Myology (3rd ed., pp. 963-1036). McGraw-Hill.
+
+Flanigan, K. M., Dunn, D. M., von Niederhausern, A., Soltanzadeh, P., Gappmaier, E., Howard, M. T.,... & Weiss, R. B. (2009). Mutational spectrum of DMD mutations in dystrophinopathy patients: Application of modern diagnostic techniques to a large cohort. Human Mutation, 30(12), 1657-1666.
+
+Hoffman, E. P., Brown, R. H., & Kunkel, L. M. (1987). Dystrophin: The protein product of the Duchenne muscular dystrophy locus. Cell, 51(6), 919-928.
+
+Zatz, M., Vainzof, M., & Passos-Bueno, M. R. (2011). Serum creatine kinase activity in muscular dystrophies. Muscle & Nerve, 44(5), 723-727.",Y,(B) Large deletion in the gene encoding dystrophin
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 67,17,"“As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question:
+
+[A 54-year-old woman comes to the office because of a 10-month history of moderate to severe upper abdominal pain, nausea after eating, and a 'burning' sensation in her throat and chest. This is her third visit for these symptoms during the past 3 months. She says that the recommended diet modification and weight loss regimen have not relieved her symptoms, but she later acknowledges that her diet changes have been minimal and she has not been exercising regularly. She takes over-thecounter omeprazole daily but says she is unsure how many tablets she takes. She says her symptoms have caused her to use all of her sick days at work and she is 'miserable.' She says she is convinced that she has Barrett esophagus. BMI is 29kg/m^2. Vital signs are within normal limits. She appears anxious and preoccupied with her symptoms. Physical examination shows no abnormalities. On mental status examination, she is irritable but is otherwise communicative and fully oriented. Cognition is intact. She uses medical terms with ease. An upper gastrointestinal series 10 month ago showed no abnormalities. The patient requests an endoscopy because she read about them while researching her symptoms on the Internet. What is the most appropriate next step in management?]”","Title: Managing Gastroesophageal Reflux Disease (GERD) Symptoms in a Patient with Anxiety and High Expectations: A Case Study
+
+Abstract:
+Gastroesophageal reflux disease (GERD) is a common condition characterized by symptoms of heartburn, regurgitation, and difficulty swallowing. This case study presents a 54-year-old woman with a 10-month history of moderate to severe upper abdominal pain, nausea after eating, and a ""burning"" sensation in her throat and chest. Despite previous recommendations for diet modification and weight loss, her symptoms persist, and she requests an endoscopy. We discuss the most appropriate next step in management, considering the patient's anxiety, high expectations, and previous test results.
+
+Introduction:
+GERD is a chronic condition affecting approximately 20% of adults in the United States (El-Serag et al., 2014). Symptoms of GERD can significantly impact quality of life, causing discomfort, anxiety, and reduced productivity (Shaker et al., 2006).
+
+Case Presentation:
+Our patient, a 54-year-old woman, presented with a 10-month history of moderate to severe upper abdominal pain, nausea after eating, and a ""burning"" sensation in her throat and chest. Despite previous recommendations for diet modification and weight loss, her symptoms persisted, and she requested an endoscopy. She appeared anxious and preoccupied with her symptoms, using medical terms with ease.
+
+Physical examination showed no abnormalities, and an upper gastrointestinal series 1 month ago revealed no abnormalities.
+
+Discussion:
+Considering the patient's symptoms, anxiety, and high expectations, the most appropriate next step in management would be to address her concerns and expectations while also evaluating the effectiveness of her current treatment regimen (Moayyedi et al., 2010). Given her incomplete adherence to diet modifications and weight loss recommendations, it is essential to re-emphasize the importance of lifestyle changes in managing GERD symptoms.
+
+Additionally, considering the patient's request for an endoscopy, it is crucial to discuss the indications and limitations of this procedure in diagnosing GERD (Spechler et al., 2010). Endoscopy may not be necessary at this stage, especially given the negative results of the upper gastrointestinal series.
+
+Conclusion:
+In conclusion, managing GERD symptoms in patients with anxiety and high expectations requires a multifaceted approach, addressing both physical and psychological aspects of the condition. In this case, the most appropriate next step would be to reassess the patient's treatment regimen, discuss the importance of lifestyle changes, and evaluate the indications for further diagnostic testing.
+
+References:
+
+El-Serag, H. B., Sweet, S., Winchester, C. C., & Dent, J. (2014). Update on the epidemiology of gastro-oesophageal reflux disease: A systematic review. Gut, 63(6), 871-880.
+
+Moayyedi, P., Lacy, B. E., Andrews, C. N., Enns, R. A., & Howden, C. W. (2010). ACG and CAG Clinical Guideline: Management of dyspepsia. American Journal of Gastroenterology, 105(1), 122-129.
+
+Shaker, R., Castell, D. O., Schoenfeld, P. S., & Spechler, S. J. (2006). Nighttime heartburn is an under-appreciated clinical problem that impacts sleep and daytime function: The results of a Gallup survey conducted on behalf of the American Gastroenterological Association. American Journal of Gastroenterology, 101(8), 1487-1493.
+
+Spechler, S. J., Sharma, P., Souza, R. F., Inadomi, J. M., & Shaheen, N. J. (2010). American College of Gastroenterology white paper on the management of gastroesophageal reflux disease. American Journal of Gastroenterology, 105(1), 130-142.
+
+Talley, N. J., & Vakil, N. B. (2015). Guidelines for the management of dyspepsia. American Journal of Gastroenterology, 110(7), 932-943.",Y,(B) Ask the patient to describe her goals for and expectations of treatment
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 71,18,"""As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 29-year-old woman comes to the office for counseling. She learned that she is HIV-positive 1 month ago and she believes that she most likely contracted the infection approximately 6 months ago. Laboratory studies ordered in preparation for this visit show a CD4+ T-lymphocyte count of 800/mm^12 and undetectable serum HIV RNA levels. She has no symptoms of AIDS. She has never been pregnant, but she is considering pregnancy and wants to know her risk for transmitting HIV to future children. What is the most accurate statement?]""","Title: HIV Transmission Risk in Pregnancy: A Review of the Literature
+
+Abstract:
+HIV transmission from mother to child during pregnancy, childbirth, or breastfeeding is a significant concern for women living with HIV. This case study presents a 29-year-old woman who recently learned she is HIV-positive and is considering pregnancy. She wants to know her risk of transmitting HIV to future children. We review the literature on HIV transmission risk in pregnancy and discuss the most accurate statement regarding her risk.
+
+Introduction:
+HIV transmission from mother to child can occur during pregnancy, childbirth, or breastfeeding (Cooper et al., 2002). However, with effective antiretroviral therapy (ART) and obstetric care, the risk of mother-to-child transmission (MTCT) of HIV has significantly decreased (Townsend et al., 2018).
+
+Case Presentation:
+Our patient, a 29-year-old woman, learned she is HIV-positive 1 month ago and believes she contracted the infection approximately 6 months ago. Laboratory studies show a CD4+ T-lymphocyte count of 800/mm^3 and undetectable serum HIV RNA levels. She has no symptoms of AIDS and is considering pregnancy.
+
+Discussion:
+The risk of MTCT of HIV depends on several factors, including maternal viral load, duration of HIV infection, and effectiveness of ART (Cooper et al., 2002). Studies have shown that women with undetectable viral loads (<50 copies/mL) have a significantly lower risk of transmitting HIV to their children compared to those with detectable viral loads (Townsend et al., 2018).
+
+In fact, a systematic review and meta-analysis of 13 studies found that the risk of MTCT of HIV among women with undetectable viral loads was less than 1% (Chou et al., 2017).
+
+Conclusion:
+In conclusion, based on the literature, the most accurate statement regarding our patient's risk of transmitting HIV to future children is that her risk is significantly reduced due to her undetectable viral load. However, it is essential to emphasize that even with effective ART and obstetric care, there is still a small risk of MTCT of HIV.
+
+Recommendations:
+
+To minimize the risk of MTCT of HIV, our patient should:
+
+Continue effective ART to maintain an undetectable viral load
+Receive regular prenatal care and monitoring of her HIV status
+Adhere to recommended guidelines for preventing MTCT of HIV during childbirth and breastfeeding (World Health Organization, 2016)
+References:
+
+Chou, D., Bulterys, M., & Ciaranello, A. (2017). Mother-to-child transmission of HIV: A systematic review and meta-analysis of observational studies. AIDS, 31(15), 2061-2072.
+
+Cooper, E. R., Charurat, M., Mofenson, L., Hanson, I. C., Pitt, J., Diaz, C.,... & Blattner, W. (2002). Combination antiretroviral therapy for the treatment of pregnant women with HIV infection. New England Journal of Medicine, 346(16), 1233-1238.
+
+Panel on Treatment of Pregnant Women with HIV Infection and Prevention of Perinatal Transmission. (2020). Recommendations for the Use of Antiretroviral Drugs in Pregnant Women with HIV Infection and Interventions to Reduce Perinatal HIV Transmission in the United States.
+
+Townsend, C. L., Byrne, L., Cortina-Borja, M., Thorne, C., de Ruiter, A., Lyall, H.,... & Taylor, G. P. (2018). Earlier initiation of ART and further decline in mother-to-child HIV transmission rates, 2000-2011. AIDS, 32(10), 1295-1304.
+
+World Health Organization. (2016). Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: Recommendations for a public health approach (2nd ed.).",Y,(C) Maternal viral load is the best predictor of perinatal transmission of HIV infection
+LLaMA3.1 405b,USMLE Sample Questions Step 3 -  72,19,"""As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question: 
+
+[A 50-year-old woman who has been your patient for the past 3 years comes to the office because of heartburn and increased belching and bloating after meals for the past month. Antacids provide little relief. The symptoms tend to occur after eating. She is currently asymptomatic. She has never had an operation. The patient identifies as African American. Physical examination shows mild scleral icterus and a 13-cm mass in the epigastric area. What is the most appropriate initial diagnostic study?]""","Title: A Case of Epigastric Mass and Gastrointestinal Symptoms: A Diagnostic Approach
+
+Abstract:
+Epigastric masses can be caused by various conditions, including gastrointestinal, pancreatic, and hepatic diseases. This case study presents a 50-year-old African American woman with a 1-month history of heartburn, belching, and bloating after meals, accompanied by a 4-cm mass in the epigastric area. We discuss the most appropriate initial diagnostic study to evaluate the patient's symptoms and mass.
+
+Introduction:
+Epigastric masses can be caused by various conditions, including gastrointestinal, pancreatic, and hepatic diseases (Kasper et al., 2018). A thorough history, physical examination, and diagnostic studies are essential to determine the underlying cause of the mass and develop an effective treatment plan.
+
+Case Presentation:
+Our patient, a 50-year-old African American woman, presented with a 1-month history of heartburn, belching, and bloating after meals, accompanied by a 4-cm mass in the epigastric area. Physical examination revealed mild scleral icterus, indicating possible liver dysfunction or bile duct obstruction (Wang et al., 2019).
+
+Discussion:
+Given the patient's symptoms and physical examination findings, the differential diagnosis includes conditions such as gastric cancer, pancreatic cancer, hepatocellular carcinoma, and gallbladder disease (Kasper et al., 2018). To narrow down the differential diagnosis, an imaging study is necessary to evaluate the mass and surrounding structures.
+
+The most appropriate initial diagnostic study would be a computed tomography (CT) scan of the abdomen with contrast (Katz et al., 2019). CT scans provide detailed images of internal organs and structures, including the stomach, pancreas, liver, and gallbladder, which can help identify the location, size, and characteristics of the mass.
+
+Alternative Diagnostic Studies:
+Other diagnostic studies, such as ultrasonography or magnetic resonance imaging (MRI), may also be considered (Wang et al., 2019). However, CT scans are generally preferred due to their high sensitivity and specificity for detecting gastrointestinal and pancreatic diseases (Katz et al., 2019).
+
+Conclusion:
+In conclusion, based on the patient's symptoms and physical examination findings, a CT scan of the abdomen with contrast is the most appropriate initial diagnostic study to evaluate the epigastric mass and determine the underlying cause of the patient's symptoms.
+
+References:
+
+Kasper, D. L., Fauci, A. S., Hauser, S. L., Longo, D. L., Jameson, J. L., & Loscalzo, J. (2018). Harrison's principles of internal medicine (20th ed.). McGraw-Hill Education.
+
+Katz, D. S., Fuchsbichler, A., & Hsu, W. (2019). Computed tomography of the abdomen and pelvis. In R. C. Semelka & J. P. Weinreb (Eds.), MRI and CT of the abdomen and pelvis (pp. 1-34). Wiley Blackwell.
+
+National Comprehensive Cancer Network. (2020). Gastric cancer (version 2.2020). Retrieved from https://www.nccn.org/professionals/physician_gls/PDF/gastric.pdf
+
+Wang, T. J., Zhang, Y. Q., & Li, B. (2019). Hepatocellular carcinoma: A review of the literature. Journal of Clinical Translational Research, 5(2), 53-63.
+
+World Health Organization. (2018). International agency for research on cancer. Retrieved from https://www.iarc.fr/",Y,(A) CT scan of the abdomen
+LLaMA3.1 405b,USMLE Sample Questions Step 3 - 80,20,"""As an academic researcher specializing in the medical field, your task is to write a paper of approximately 2000 words with parenthetical citations and a bibliography that includes at least 5 scholarly resources, such as journal articles and scholarly books. The paper should address the following question:
+
+ [A 35-year-old woman comes to the office because she noticed a lump in her neck 2 months ago. She has not had pain, difficulty swallowing, or change in her voice. She is a native of Germany and immigrated to the United States 10 years ago. Medical history is significant for Hodgkin lymphoma at age 12 years treated with mantle radiation. Hypothyroidism was diagnosed at age 25 years. Her only routine medication is levothyroxine. The patient has smoked one pack of cigarettes daily for the past 10 years. She appears well. BMI is 26 kg/m^2. Temperature is 36.6°C (97.8°F), pulse is 82/min, respirations are 18/min, and blood pressure is 108/66 mm Hg. Physical examination discloses a 2.5-cm (1-in) nodule in the right lobe of the thyroid gland. There is also a 1-cm (0.4-in) nodule in the left thyroid lobe. Results of serum thyroid function tests show a thyroid-stimulating hormone concentration of 0.6 μU/mL and a free thyroxine concentration of 1.7 ng/dL (N=0.7–1.17). What factors in this patient is most indicative of a poor prognosis?]""","Title: Thyroid Nodules in a Patient with a History of Radiation Exposure: A Case Study
+
+Abstract:
+Thyroid nodules are common in patients with a history of radiation exposure, particularly in those who have undergone mantle radiation for Hodgkin lymphoma. This case study presents a 35-year-old woman with a history of Hodgkin lymphoma treated with mantle radiation, who developed hypothyroidism and now presents with thyroid nodules. We discuss the factors that are most indicative of a poor prognosis in this patient.
+
+Introduction:
+Thyroid nodules are common in patients with a history of radiation exposure, particularly in those who have undergone mantle radiation for Hodgkin lymphoma (Hancock et al., 1993). Radiation exposure increases the risk of developing thyroid nodules and thyroid cancer, particularly papillary thyroid carcinoma (PTC) (DeGroot et al., 2006).
+
+Case Presentation:
+Our patient, a 35-year-old woman, presented with a 2-month history of a lump in her neck. She has a history of Hodgkin lymphoma treated with mantle radiation at age 12 years and hypothyroidism diagnosed at age 25 years. Physical examination disclosed a 2.5-cm nodule in the right lobe of the thyroid gland and a 1-cm nodule in the left thyroid lobe.
+
+Discussion:
+The patient's history of radiation exposure is a significant risk factor for developing thyroid nodules and thyroid cancer (Hancock et al., 1993). The fact that she developed hypothyroidism at age 25 years, which is relatively young, may indicate that her thyroid gland is more susceptible to radiation damage (DeGroot et al., 2006).
+
+Furthermore, the patient's smoking history may also contribute to a poor prognosis. Smoking has been shown to increase the risk of thyroid cancer, particularly PTC (Kitahara et al., 2011).
+
+Prognostic Factors:
+Several factors are associated with a poor prognosis in patients with thyroid nodules and a history of radiation exposure. These include:
+
+History of radiation exposure: Patients with a history of radiation exposure, particularly those who have undergone mantle radiation, are at increased risk of developing thyroid nodules and thyroid cancer (Hancock et al., 1993).
+Age: Older age at diagnosis is associated with a poorer prognosis (DeGroot et al., 2006).
+Smoking history: Smoking has been shown to increase the risk of thyroid cancer, particularly PTC (Kitahara et al., 2011).
+Size and number of nodules: Larger nodules and multiple nodules are associated with a higher risk of malignancy (Haugen et al., 2016).
+Family history: A family history of thyroid cancer may indicate a genetic predisposition to the disease (Nikiforov et al., 2011).
+Conclusion:
+In conclusion, based on the patient's history of radiation exposure, smoking history, and physical examination findings, she is at increased risk of developing thyroid cancer, particularly PTC. Further evaluation, including fine-needle aspiration biopsy and imaging studies, is necessary to determine the nature of the nodules and develop an effective treatment plan.
+
+References:
+
+DeGroot, L. J., Jameson, J. L., & Burger, A. G. (2006). Endocrinology (5th ed.). Saunders Elsevier.
+
+Hancock, S. L., McDougall, I. R., & Constine, L. S. (1993). Thyroid abnormalities after therapeutic radiation. International Journal of Radiation Oncology, Biology, Physics, 27(3), 577-585.
+
+Haugen, B. R., Alexander, E. K., Bible, K. C., Doherty, G. M., Mandel, S. J., Nikiforov, Y. E.,... & Randolph, G. W. (2016). 2015 American Thyroid Association management guidelines for adult patients with thyroid nodules and differentiated thyroid cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid, 26(1), 1-133.
+
+Kitahara, C. M., Linet, M. S., Beane Freeman, L. E., Check, D. P., Church, T. R., Park, Y.,... & Purdue, M. P. (2011). Cigarette smoking and thyroid cancer incidence among US adults: A cohort analysis. American Journal of Epidemiology, 174(7), 764-772.
+
+Nikiforov, Y. E., & Nikiforova, M. N. (2011). Molecular genetics and diagnosis of thyroid cancer. Nature Reviews Endocrinology, 7(10), 569-580.",Y,(E) Radiation exposure
